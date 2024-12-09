@@ -1,0 +1,3 @@
+C:/Users/seven/Desktop/21/cmake-build-debug/CMakeFiles/21.dir
+C:/Users/seven/Desktop/21/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/seven/Desktop/21/cmake-build-debug/CMakeFiles/rebuild_cache.dir
