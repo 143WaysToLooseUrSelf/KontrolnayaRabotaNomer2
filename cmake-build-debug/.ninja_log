@@ -1,0 +1,15 @@
+# ninja log v6
+32	368	7556258349496787	CMakeFiles/21.dir/Person/Employee/director.cpp.obj	c0d61dc3ca8dd345
+17	248	7556258349341709	CMakeFiles/21.dir/Person/person.cpp.obj	67ba660068da80c4
+25	495	7556258349421729	CMakeFiles/21.dir/Clinic/clinic.cpp.obj	4eb0863d6f0b563d
+19	351	7556258349371737	CMakeFiles/21.dir/Person/Patient/patient.cpp.obj	84d23af426ad5b1b
+19	501	7556244752863708	CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.obj	94c66813d3ff2c86
+22	343	7556258349391728	CMakeFiles/21.dir/Person/Employee/security.cpp.obj	9af84d975ab930e5
+28	343	7556258349456786	CMakeFiles/21.dir/Person/Employee/doctor.cpp.obj	1ef2d1c0953cb3e7
+26	679	7556244752933711	CMakeFiles/21.dir/Clinic/Info/days.cpp.obj	99335208906cca1c
+6	988	7556258513151074	CMakeFiles/21.dir/main.cpp.obj	7505dc801b8e92a0
+988	1084	7556258522973519	21.exe	9106d66f30f3765f
+18	266	7556260193680767	build.ninja	7d7329838b9ca369
+26	262	7556260194549989	CMakeFiles/21.dir/Person/Employee/intern.cpp.obj	4f058dd5e52c650b
+24	991	7556260194524944	CMakeFiles/21.dir/main.cpp.obj	7505dc801b8e92a0
+991	1085	7556260204192557	21.exe	d3f772575be7ccb9
