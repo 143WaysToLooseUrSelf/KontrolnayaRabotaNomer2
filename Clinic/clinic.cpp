@@ -1,5 +1,5 @@
-#include "clinic.h"
 #include "../Person/Patient/patient.h"
+#include "clinic.h"
 #include <iostream>
 
 Clinic::Clinic()  {}
@@ -7,8 +7,28 @@ Clinic::Clinic()  {}
 Clinic::~Clinic() {
 }
 
-void Clinic::addDay(std::string dayName) { // логика клиники добавляет дни, расписания и сотрудников
+void Clinic::addDay(std::string dayName) { // логика клиники добавляет дни, расписания и сотрудников, запись пацинетов
     days.push_back(new Day(dayName));
+}
+
+void Clinic::bookPatientForDay(std::string patientName, std::string dayName) {
+    for (Day* day : days) {
+        if (day->getName() == dayName) {
+            day->bookAppointment(patientName);
+            return;
+        }
+    }
+    std::cout << "День " << dayName << " не найден.\n";
+}
+
+void Clinic::displayAppointmentsForDay(std::string dayName) {
+    for (Day* day : days) {
+        if (day->getName() == dayName) {
+            day->displayAppointments();
+            return;
+        }
+    }
+    std::cout << "День " << dayName << " не найден.\n";
 }
 
 void Clinic::addScheduleToDay(std::string dayName, Schedule* schedule) {
@@ -40,7 +60,5 @@ void Clinic::displayEmployee() {
         person->displayInfo();
     }
 }
-
-
 
 

@@ -1,5 +1,5 @@
-#include "patient.h"
 #include <iostream>
+#include "patient.h"
 
 Patient::Patient(std::string name, double clinicDate) : Person(name), _clinicDate(clinicDate) {}
 

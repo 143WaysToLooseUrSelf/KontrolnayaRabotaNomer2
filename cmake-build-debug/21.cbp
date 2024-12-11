@@ -82,16 +82,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/seven/Desktop/21/Clinic/Information/Shedule/schedule.cpp">
+		<Unit filename="C:/Users/seven/Desktop/21/Clinic/Info/Shedule/schedule.cpp">
 			<Option target="21"/>
 		</Unit>
-		<Unit filename="C:/Users/seven/Desktop/21/Clinic/Information/Shedule/schedule.h">
+		<Unit filename="C:/Users/seven/Desktop/21/Clinic/Info/Shedule/schedule.h">
 			<Option target="21"/>
 		</Unit>
-		<Unit filename="C:/Users/seven/Desktop/21/Clinic/Information/days.cpp">
+		<Unit filename="C:/Users/seven/Desktop/21/Clinic/Info/days.cpp">
 			<Option target="21"/>
 		</Unit>
-		<Unit filename="C:/Users/seven/Desktop/21/Clinic/Information/days.h">
+		<Unit filename="C:/Users/seven/Desktop/21/Clinic/Info/days.h">
 			<Option target="21"/>
 		</Unit>
 		<Unit filename="C:/Users/seven/Desktop/21/Clinic/clinic.cpp">

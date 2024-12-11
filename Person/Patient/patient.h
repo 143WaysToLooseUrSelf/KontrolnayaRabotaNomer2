@@ -1,10 +1,7 @@
 #pragma once
-
 #include "../person.h"
-#include <vector>
-#include <string>
 
-class Patient : virtual public Person {
+class Patient : public Person {
 private:
     double _clinicDate;
 

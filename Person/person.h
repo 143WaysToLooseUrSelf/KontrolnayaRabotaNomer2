@@ -9,7 +9,6 @@ protected:
 public:
     Person(std::string name);
     virtual ~Person() = default; // v фукнция
-
     virtual void displayInfo() = 0; // чистая v функция
 };
 

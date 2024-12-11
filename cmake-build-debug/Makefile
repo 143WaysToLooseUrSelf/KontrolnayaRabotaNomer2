@@ -128,53 +128,53 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/build
 .PHONY : 21/fast
 
-Clinic/Information/Shedule/schedule.obj: Clinic/Information/Shedule/schedule.cpp.obj
-.PHONY : Clinic/Information/Shedule/schedule.obj
+Clinic/Info/Shedule/schedule.obj: Clinic/Info/Shedule/schedule.cpp.obj
+.PHONY : Clinic/Info/Shedule/schedule.obj
 
 # target to build an object file
-Clinic/Information/Shedule/schedule.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.obj
-.PHONY : Clinic/Information/Shedule/schedule.cpp.obj
+Clinic/Info/Shedule/schedule.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.obj
+.PHONY : Clinic/Info/Shedule/schedule.cpp.obj
 
-Clinic/Information/Shedule/schedule.i: Clinic/Information/Shedule/schedule.cpp.i
-.PHONY : Clinic/Information/Shedule/schedule.i
+Clinic/Info/Shedule/schedule.i: Clinic/Info/Shedule/schedule.cpp.i
+.PHONY : Clinic/Info/Shedule/schedule.i
 
 # target to preprocess a source file
-Clinic/Information/Shedule/schedule.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.i
-.PHONY : Clinic/Information/Shedule/schedule.cpp.i
+Clinic/Info/Shedule/schedule.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.i
+.PHONY : Clinic/Info/Shedule/schedule.cpp.i
 
-Clinic/Information/Shedule/schedule.s: Clinic/Information/Shedule/schedule.cpp.s
-.PHONY : Clinic/Information/Shedule/schedule.s
+Clinic/Info/Shedule/schedule.s: Clinic/Info/Shedule/schedule.cpp.s
+.PHONY : Clinic/Info/Shedule/schedule.s
 
 # target to generate assembly for a file
-Clinic/Information/Shedule/schedule.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.s
-.PHONY : Clinic/Information/Shedule/schedule.cpp.s
+Clinic/Info/Shedule/schedule.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.s
+.PHONY : Clinic/Info/Shedule/schedule.cpp.s
 
-Clinic/Information/days.obj: Clinic/Information/days.cpp.obj
-.PHONY : Clinic/Information/days.obj
+Clinic/Info/days.obj: Clinic/Info/days.cpp.obj
+.PHONY : Clinic/Info/days.obj
 
 # target to build an object file
-Clinic/Information/days.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/Clinic/Information/days.cpp.obj
-.PHONY : Clinic/Information/days.cpp.obj
+Clinic/Info/days.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/Clinic/Info/days.cpp.obj
+.PHONY : Clinic/Info/days.cpp.obj
 
-Clinic/Information/days.i: Clinic/Information/days.cpp.i
-.PHONY : Clinic/Information/days.i
+Clinic/Info/days.i: Clinic/Info/days.cpp.i
+.PHONY : Clinic/Info/days.i
 
 # target to preprocess a source file
-Clinic/Information/days.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/Clinic/Information/days.cpp.i
-.PHONY : Clinic/Information/days.cpp.i
+Clinic/Info/days.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/Clinic/Info/days.cpp.i
+.PHONY : Clinic/Info/days.cpp.i
 
-Clinic/Information/days.s: Clinic/Information/days.cpp.s
-.PHONY : Clinic/Information/days.s
+Clinic/Info/days.s: Clinic/Info/days.cpp.s
+.PHONY : Clinic/Info/days.s
 
 # target to generate assembly for a file
-Clinic/Information/days.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/Clinic/Information/days.cpp.s
-.PHONY : Clinic/Information/days.cpp.s
+Clinic/Info/days.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\21.dir\build.make CMakeFiles/21.dir/Clinic/Info/days.cpp.s
+.PHONY : Clinic/Info/days.cpp.s
 
 Clinic/clinic.obj: Clinic/clinic.cpp.obj
 .PHONY : Clinic/clinic.obj
@@ -353,12 +353,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 21
-	@echo ... Clinic/Information/Shedule/schedule.obj
-	@echo ... Clinic/Information/Shedule/schedule.i
-	@echo ... Clinic/Information/Shedule/schedule.s
-	@echo ... Clinic/Information/days.obj
-	@echo ... Clinic/Information/days.i
-	@echo ... Clinic/Information/days.s
+	@echo ... Clinic/Info/Shedule/schedule.obj
+	@echo ... Clinic/Info/Shedule/schedule.i
+	@echo ... Clinic/Info/Shedule/schedule.s
+	@echo ... Clinic/Info/days.obj
+	@echo ... Clinic/Info/days.i
+	@echo ... Clinic/Info/days.s
 	@echo ... Clinic/clinic.obj
 	@echo ... Clinic/clinic.i
 	@echo ... Clinic/clinic.s
